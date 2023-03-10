@@ -1,1 +1,2 @@
 #!/bin/bash
+M-x delete-files RET *~ RET
